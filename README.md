@@ -8,10 +8,6 @@ Nomenclature used for the state space formulation of the truck:
 
 Nomenclature used for the state space formulation of the anaerobic digester in closed loop (the same for the open loop except that the original variables are NOT translated):
 
-![Translated_digester_closedLoop_res](https://user-images.githubusercontent.com/62107909/180829573-0a8e56d6-644d-4823-ad67-cd4797302ac4.JPG)
-
-![Translated_digester_closedLoop_res](https://user-images.githubusercontent.com/62107909/180830542-b4cb0266-4fae-45bc-86c3-8f9192a583ab.JPG)
-
 ![Translated_digester_closedLoop_res](https://user-images.githubusercontent.com/62107909/180830819-2fafeb5f-2605-4c5d-b253-3cc3c3ab4477.JPG)
 
 
