@@ -1,7 +1,7 @@
 # A SciPy Implementation of a Seven-Compartment Bio-Methane TMN
 
 Source code of the paper: 
-Zocco, F., Sopasakis, P., Haddad, W.M. and Smyth, B., 2022. Thermodynamical Material Networks for Modeling, Planning and Control of Circular Material Flows. arXiv preprint arXiv:2111.10693. The paper will be submitted in the next days.
+Zocco, F., Sopasakis, P., Haddad, W.M. and Smyth, B., 2022. Thermodynamical Material Networks for Modeling, Planning and Control of Circular Material Flows. arXiv preprint arXiv:2111.10693. The paper will be submitted in the next few days.
 
 
 
