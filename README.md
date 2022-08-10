@@ -21,4 +21,4 @@ Nomenclature used for the state space formulation of the anaerobic digester in c
 
 Variables with "bar" correspond to the desired equilibrium, which is the point SS6 here.
 
-Note that, while the network in total has 7 compartments, only the 3 dynamical compartments are implemented (i.e. the 2 trucks and the anaerobic digester with and without the controller). Refer to the source paper for the ordinary differential equations.   
+Note that, while the network in total has 7 compartments, only the 3 dynamical compartments are implemented (i.e. the 2 trucks and the anaerobic digester with and without the controller). Refer to the source paper for the ordinary differential equations and the controller design.   
