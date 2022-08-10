@@ -4,6 +4,8 @@ Source code of the paper:
 Zocco, F., Sopasakis, P., Haddad, W.M. and Smyth, B., 2022. Thermodynamical Material Networks for Modeling, Planning and Control of Circular Material Flows. arXiv preprint arXiv:2111.10693. 
 
 
+![Capture](https://user-images.githubusercontent.com/62107909/183885363-2bdfe96f-962e-4e4d-9b4a-e1a560ad6bf7.JPG)
+
 
 
 ## Code overview
