@@ -3,8 +3,15 @@
 Source code of the paper: 
 Zocco, F., Sopasakis, P., Haddad, W.M. and Smyth, B., 2022. Thermodynamical Material Networks for Modeling, Planning and Control of Circular Material Flows. arXiv preprint arXiv:2111.10693. 
 
+As suggested by the paper title, the main goal of the paper is to propose a generalized and systematic methodology based on compartmental dynamical thermodynamics and graph theory to re-design material flows. The key idea is to see any supply chain as the result of multiple thermodynamical compartments connected through the exhcange of materials; the connections and the compartments can be added, removed and modified as appropriate at the design stage to analyze different scenarios. This is possible thanks to the generality of thermodynamics which has been developed for chemical, electrical, mechanical and thermal systems in the past. These systems are the backbones of the industrial networks we have today. A summary of the proposed methodology is below.
+
+![Capture2](https://user-images.githubusercontent.com/62107909/183888447-470f25de-0b4d-41e0-9725-0c0fd103ad34.JPG)
+
+To demonstrate the applicability of the methodology, we considered the small bio-methane supply chain below. The code in this repository was used to generate the numerical results for this seven-compartment bio-methane network. 
 
 ![Capture](https://user-images.githubusercontent.com/62107909/183885363-2bdfe96f-962e-4e4d-9b4a-e1a560ad6bf7.JPG)
+
+
 
 
 
