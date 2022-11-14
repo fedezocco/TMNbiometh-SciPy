@@ -29,7 +29,7 @@ Nomenclature used for the state space formulation of the anaerobic digester in c
 ![Translated_digester_closedLoop_res](https://user-images.githubusercontent.com/62107909/180830819-2fafeb5f-2605-4c5d-b253-3cc3c3ab4477.JPG)
 
 
-Variables with "bar" correspond to the desired equilibrium, which is the point SS6 here.  
+Variables with "bar" correspond to the desired equilibrium, which in this case is the point "SS6".  
 
 
 
