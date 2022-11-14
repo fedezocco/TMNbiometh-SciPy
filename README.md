@@ -16,7 +16,7 @@ To demonstrate the applicability of the methodology, we considered the small bio
 
 
 
-## Code overview
+## 1. Code overview
 The folder contains four independent scripts: one for the truck, one for the digester in open loop, one for the digester in closed loop, and one for the biomass hub.
 
 Nomenclature used for the state space formulation of the truck:
@@ -35,7 +35,7 @@ Variables with "bar" correspond to the desired equilibrium, which in this case i
 
 
 
-## Graph-based circularity indicator
+## 2. Graph-based circularity indicator
 Leveraging the definition of TMNs, we also develop a material flow circularity indicator and illustrate its calculation for the network below. See the source paper for details.
 
 ![Capture](https://user-images.githubusercontent.com/62107909/201694995-1e550278-8b28-4988-808e-a74f3d9f4f60.JPG)
