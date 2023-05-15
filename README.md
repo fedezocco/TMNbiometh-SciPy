@@ -1,7 +1,7 @@
 # A SciPy Implementation of a Three-Compartment Bio-Methane TMN
 
 Source code of the paper: 
-Zocco, F., Sopasakis, P., Smyth, B., and Haddad, W.M., 2022. Thermodynamical Material Networks for Modeling, Planning, and Control of Circular Material Flows. arXiv preprint arXiv:2111.10693. 
+Zocco, F., Sopasakis, P., Smyth, B., and Haddad, W.M., 2023. Thermodynamical Material Networks for Modeling, Planning, and Control of Circular Material Flows. International Journal of Sustainable Engineering, vol. 16, issue 1. https://doi.org/10.1080/19397038.2023.2209582  
 
 As suggested by the paper title, the main goal of the paper is to propose a generalized and systematic methodology based on compartmental dynamical thermodynamics and graph theory to re-design material flows. The key idea is to see any supply chain as the result of multiple thermodynamical compartments connected through the exhcange of materials; the connections and the compartments can be added, removed and modified as appropriate at the design stage to analyze different scenarios. This is possible thanks to the generality of thermodynamics, which has been developed for chemical, electrical, mechanical and thermal systems in the past. These systems are the backbone of the industrial networks we have today. A summary of the proposed methodology is below.
 
